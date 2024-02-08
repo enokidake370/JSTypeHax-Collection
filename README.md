@@ -3,6 +3,7 @@ TCPGecko.zipは、TCPGeckoが入っています。<br>
 Pong.zipには、Pongが入っています！<br>
 spacegame.zipには、SpaceGameが入っています！<br>
 自分用にバックアップしています！<br>
+elfは、sd://wiiu/exploit/においてください！！<br>
 
 元サイト :<a href="http://yuta123.atspace.cc/">Go!</a><br>
 
